@@ -3,7 +3,7 @@ import React, { useState } from "react";
 import InputForms from "./InputForms";
 
 
-const apikey = "nEYVPbtUTUxS_uPVMQfOReKKU3DXGGhEhSre01i-xI0";
+const apikey = "API_KEY";
 
 function App() {
   const userPosition = { lat: 64.1472, lng: -21.9398 };
